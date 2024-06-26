@@ -1,0 +1,29 @@
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.EmployeeCreation.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.HomeScreen.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\bin\Debug\CRUD.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\bin\Debug\CRUD.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.EmployeeDeletion.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.ReadEmployees.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\obj\Debug\CRUD.UpdateEmployees.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\bin\Debug\CRUDdb.mdf
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\CRUD\bin\Debug\CRUDdb_log.ldf
+X:\Career\apps\CRUD\bin\Debug\CRUD.exe.config
+X:\Career\apps\CRUD\obj\Debug\CRUD.exe
+X:\Career\apps\CRUD\obj\Debug\CRUD.xml
+X:\Career\apps\CRUD\obj\Debug\CRUD.pdb
+X:\Career\apps\CRUD\obj\Debug\CRUD.vbprojResolveAssemblyReference.cache
+X:\Career\apps\CRUD\obj\Debug\CRUD.EmployeeCreation.resources
+X:\Career\apps\CRUD\obj\Debug\CRUD.EmployeeDeletion.resources
+X:\Career\apps\CRUD\obj\Debug\CRUD.HomeScreen.resources
+X:\Career\apps\CRUD\obj\Debug\CRUD.Resources.resources
+X:\Career\apps\CRUD\obj\Debug\CRUD.ReadEmployees.resources
+X:\Career\apps\CRUD\obj\Debug\CRUD.UpdateEmployees.resources
+X:\Career\apps\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.Cache
